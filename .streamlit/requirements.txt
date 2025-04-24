@@ -1,3 +1,4 @@
-streamlit
-cryptography
+streamlit==1.17.0
+cryptography==3.4.8
+pycryptodome==3.10.1
 
